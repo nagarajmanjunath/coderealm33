@@ -2,7 +2,7 @@
 layout: post
 title: "What is wasm"
 categories: [blockchain]
-image: assets/images/1.jpg
+image: assets/images/wasm.png
 ---
 
 WASM has been designed to be an open standard that can be supported by multiple web browsers and other environments. It provides a low-level programming model that is closer to the hardware, enabling developers to write high-performance code that can run efficiently in the browser. This makes it possible to bring existing code and libraries written in other languages to the web, making the development of complex web applications faster and easier.
