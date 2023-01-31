@@ -17,5 +17,8 @@ footermenu:
   - title: Privacy Policy
     url: "privacy-policy/"
 
+  - title: Terms & Conditions
+    url: "terms/"
+
   - title: Contact
     url: "contact/"
