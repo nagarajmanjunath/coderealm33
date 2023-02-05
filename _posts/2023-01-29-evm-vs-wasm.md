@@ -5,7 +5,7 @@ categories: [blockchain]
 image: assets/images/wasm.png
 ---
 
-Language support: EVM supports Solidity, the programming language for Ethereum smart contracts, as well as a few other languages like Vyper and Bamboo. WASM, on the other hand, supports a wide range of programming languages, including C, C++, Rust, and even high-level languages like JavaScript.
+Language support: EVM supports Solidity, the programming language for Ethereum smart contracts, as well as a few other languages like Viper and Bamboo. WASM, on the other hand, supports a wide range of programming languages, including C, C++, Rust, and even high-level languages like JavaScript.
 
 Deployment: EVM smart contracts are deployed on the Ethereum network and are stored on the blockchain. WASM applications can be deployed on a web server and served to users via a web browser.
 
