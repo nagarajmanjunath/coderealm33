@@ -2,7 +2,7 @@
 layout: post
 title: "Bitcoin Halving"
 categories: [blockchain]
-image: assets/images/wasm.png
+image: assets/images/bitcoin.png
 ---
 
 Splitting also has consequences for the energy utilization and carbon impression of the Bitcoin system, as diggers will require to utilize more figuring power to procure a similar compensations, which requests more energy utilization. This has brought about worries about the maintainability of the system, particularly as Bitcoin's fame and market esteem keep on developing.

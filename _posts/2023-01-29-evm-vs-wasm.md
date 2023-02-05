@@ -2,7 +2,7 @@
 layout: post
 title: "Evm VS Wasm"
 categories: [blockchain]
-image: assets/images/wasm.png
+image: assets/images/EVMwasm.png
 ---
 
 Language support: EVM supports Solidity, the programming language for Ethereum smart contracts, as well as a few other languages like Viper and Bamboo. WASM, on the other hand, supports a wide range of programming languages, including C, C++, Rust, and even high-level languages like JavaScript.

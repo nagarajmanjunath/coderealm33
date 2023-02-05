@@ -2,7 +2,7 @@
 layout: post
 title: "Multi-signature wallet"
 categories: [blockchain]
-image: assets/images/wasm.png
+image: assets/images/multisig.png
 ---
 
 Multi-signature transactions utilise a variety of methods to ensure that two or more parties are involved before a transaction is processed. Using this technology, multiple individuals or organisations must sign off on a transaction before it is processed. Because multiple parties must sign off before the funds can be moved, this technology helps to reduce the risk of theft or loss of money.
