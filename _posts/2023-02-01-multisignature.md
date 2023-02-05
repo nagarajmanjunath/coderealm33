@@ -9,7 +9,7 @@ Multi-signature transactions utilise a variety of methods to ensure that two or 
 
 Here's how it works:
 
-A multi-signature address requires two or more signatures before a transaction is permitted.  Before a transaction can be executed, it must be broadcast to all participants in the multi-signature setup. Each participant must sign off on the transaction using his or her personal key. Once the required number of approvals is reached, the transaction is broadcast to the network and processed. Multi-signature technology is utilised in a variety of industries, including cryptocurrency exchanges, corporate treasuries, and other situations where multiple parties must agree before a transaction can be completed.  Multi-signature helps to reduce theft or loss of funds, as well as to ensure that transactions are completed only with the agreement of all parties.
+A multi-signature address requires two or more signatures before a transaction is permitted. Before a transaction can be executed, it must be broadcast to all participants in the multi-signature setup. Each participant must sign off on the transaction using his or her personal key. Once the required number of approvals is reached, the transaction is broadcast to the network and processed. Multi-signature technology is utilised in a variety of industries, including cryptocurrency exchanges, corporate treasuries, and other situations where multiple parties must agree before a transaction can be completed. Multi-signature helps to reduce theft or loss of funds, as well as to ensure that transactions are completed only with the agreement of all parties.
 
 Multi-signature provides several advantages beyond additional security:
 
