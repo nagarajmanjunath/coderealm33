@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What is wasm"
-categories: [blockchain]
+categories: [wasm]
 image: assets/images/wasm.png
 ---
 

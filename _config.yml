@@ -4,11 +4,11 @@ timezone: UTC
 baseurl: ""
 url: "http://www.coderealm33.com"
 permalink: "/:title/"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+logo: "assets/images/logo.png"
+favicon: "assets/images/favicon.ico"
 author: Sal
 paginate: 30
-disqus: 'demowebsite'
+disqus: "demowebsite"
 locale: en_us
 lang: en_us
 feed_items: 10
@@ -28,20 +28,21 @@ authors:
   sal:
     name: CodeRealm33
     display_name: CodeRealm33
-    avatar: 'assets/images/sal.png'
+    avatar: "assets/images/sal.png"
     email: coderealm33@gmail.com
     twitter: https://twitter.com/coderealm33
     description: "CodeRealm33 website contain all new technology and blockchain information"
-  
+
 # Social
 social:
   facebook: https://www.facebook.com/profile.php?id=100089623552074
   twitter: https://twitter.com/coderealm33
+  instagram: https://www.instagram.com/coderealm33/
 
 # Plugins
-plugins: 
-- jekyll-paginate
-- jekyll-sitemap
-- jekyll-feed
-- jekyll-seo-tag
-- jekyll-archives
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
