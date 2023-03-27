@@ -2,8 +2,9 @@
 layout: post
 title: "Converting rust to wasm"
 categories: [wasm]
-image: assets/images/wasm.png
+image: assets/images/Rust_to_web.png
 ---
+
 Rust is one of the programming languages that can be compiled to WebAssembly (Wasm) binary format. Here is a high-level overview of how Rust code is compiled to Wasm:
 
 Write Rust code: First, you write Rust code using a Rust compiler such as rustc.

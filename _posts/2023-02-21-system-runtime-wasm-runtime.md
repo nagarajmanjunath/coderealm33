@@ -2,7 +2,7 @@
 layout: post
 title: "System runtime vs Wasm runtime"
 categories: [wasm]
-image: assets/images/wasm.png
+image: assets/images/System.jpg
 ---
 
 System runtime and WebAssembly (Wasm) runtime are two different types of runtime environments, designed to execute different types of code. Here are some of the key differences between these two types of runtime:

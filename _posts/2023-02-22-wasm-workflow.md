@@ -2,7 +2,7 @@
 layout: post
 title: "Wasm Workflow"
 categories: [wasm]
-image: assets/images/wasm.png
+image: assets/images/WASI.png
 ---
 
 WebAssembly (Wasm) is a binary instruction format that can be executed in a virtual machine. The WebAssembly runtime is the software that loads and executes Wasm modules in a secure and efficient way.

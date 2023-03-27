@@ -2,7 +2,7 @@
 layout: post
 title: "Wasm Binary"
 categories: [wasm]
-image: assets/images/wasm.png
+image: assets/images/wasm_binary.png
 ---
 
 WebAssembly (Wasm) is a binary instruction format that is designed to be compact, efficient, and portable. The Wasm binary format is represented as a sequence of bytes, which can be interpreted by a Wasm runtime to execute code. Here is a high-level overview of how a Wasm binary file looks like:
